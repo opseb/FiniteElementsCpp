@@ -1,6 +1,6 @@
 /* 
  * File:   Frame2D.cpp
- * Author: paul
+ * Author: Paul Sebastian Okoth
  * 
  * Created on 29 August 2019, 10:57
  */
