@@ -6,3 +6,6 @@ Command swites:
 -B directs CMake to put build files in the build directory
 
 2. cmake --build build
+
+This program was compiled by opening Developer Command Prompt for VS 2022,
+navigating to the project direcotry and using the commands above
