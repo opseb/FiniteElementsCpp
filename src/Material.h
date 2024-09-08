@@ -1,6 +1,6 @@
 /* 
  * File:   Material.h
- * Author: paul
+ * Author: Paul Sebastian Okoth
  *
  * Created on 29 August 2019, 11:39
  */
