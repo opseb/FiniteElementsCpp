@@ -1,3 +1,6 @@
+This computer program will analyse a two dimensional frame using the Finite Element Method. 
+
+
 How to Compile the program using CMake
 1. cmake -S . -B build
 
